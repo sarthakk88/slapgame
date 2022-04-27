@@ -91,9 +91,9 @@ function slap(sign){
     }, 500);
 
     if(score.innerHTML==50){
-      face.src="assets/vinay2.png"
+      face.src="assets/maks2.png"
     }
     if(score.innerHTML==100){
-      face.src="assets/vinay3.png"
+      face.src="assets/maks3.png"
     }
 }

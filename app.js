@@ -90,10 +90,10 @@ function slap(sign){
         face.style.width = "15em";
     }, 500);
 
-    if(score.innerHTML==50){
+    if(score.innerHTML==10){
       face.src="assets/maks2.png"
     }
-    if(score.innerHTML==100){
+    if(score.innerHTML==20){
       face.src="assets/maks3.png"
     }
 }
